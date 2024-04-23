@@ -9,8 +9,9 @@ build-backend = "setuptools.build_meta"
 name = "pythonmaths"
 dynamic = ["version"]
 authors = [
-  {name = "Author1", email = "author1@somewhere.com"},
-  {name = "Author2", email = "author2@somewhere.com"},
+  {name = "elean23", email = "author1@somewhere.com"},
+  {name = "SheebaAncy3", email = "s.g.koilpillai@sheffield.ac.uk"},
+  {name = "ocirne98", email = "autho1@somewhere.com"},
 ]
 description = "Perform mathematical calculations in Python"
 readme = "README.md"
@@ -26,8 +27,8 @@ dependencies = [
 ]
 
 [project.urls]
-Source = "https://github.com/<owner-account>/python-math"
-Bug_Tracker = "https://github.com/<owner-account>/python-math/issues"
+Source = "https://github.com/SheebaAncy3/python-math"
+Bug_Tracker = "https://github.com/SheebaAncy3/python-math/issues"
 
 [project.optional-dependencies]
 tests = [
